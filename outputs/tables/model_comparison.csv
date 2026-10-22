@@ -1,0 +1,5 @@
+"Outcome","Model","AIC"
+"Cardiovascular","Poisson",90446.9740130265
+"Cardiovascular","Negative Binomial",90449.0445511532
+"Respiratory","Poisson",90549.2919317675
+"Respiratory","Negative Binomial",90551.340412186

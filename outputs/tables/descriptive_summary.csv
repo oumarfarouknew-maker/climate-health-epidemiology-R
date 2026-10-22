@@ -1,0 +1,2 @@
+records,regions,start_date,end_date,mean_temperature,sd_temperature,mean_humidity,total_cv_cases,total_resp_cases
+15000,5,2018-01-01,2026-03-19,28.8748,6.423275762783995,54.9403,420402,419629
