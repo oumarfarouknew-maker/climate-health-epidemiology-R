@@ -42,6 +42,22 @@ The Poisson models had slightly lower AIC values than the corresponding negative
 
 Because the data are synthetic and generated with predefined relationships, these estimates are demonstrations of statistical methods, not evidence of real-world associations or causation.
 
+## Selected Visualizations
+
+### Temperature Distribution
+![Temperature distribution](outputs/figures/01_temperature_distribution.png)
+
+### Temperature Trends Over Time
+![Temperature trend](outputs/figures/02_temperature_trend.png)
+
+### Temperature and Cardiovascular Cases
+![Temperature and cardiovascular cases](outputs/figures/04_temperature_cardiovascular.png)
+
+### Temperature and Respiratory Cases
+![Temperature and respiratory cases](outputs/figures/05_temperature_respiratory.png)
+
+*All figures are based on synthetic data and illustrate analytical methods only.*
+
 ## Project Outputs
 
 - `reports/final_report.md` — generated analytical report
